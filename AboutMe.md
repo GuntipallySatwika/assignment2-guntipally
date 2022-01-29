@@ -1,0 +1,3 @@
+## Satwika Reddy Guntipally
+### I use to be an introvert person until my secondary education. I had to stay away from my parents for 6 years because of my education. I met people with different attitudes,behaviours and personalities. Gradually i started showing interest in having conversation with the people. Now,i'm a completely different person from what i used to be in the past.
+[Link for the image](SatwikaGunti.JPEG)
