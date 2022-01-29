@@ -34,5 +34,17 @@
 
 **[Link for my bio](AboutMe.md)**
 
+---
+### **Recommended Sports/Activities**
+The following table gives an information about name of the sport,where it can be played and how much it costs if there are any equipments.
+
+| Sport Name | Location | Amount |
+| --- | --- | --- |
+| Badminton | Newyork | $25 |
+| Cricket | chicago | $30 |
+| tennis | dallas | $50 |
+| hockey | misssouri | $45 |
+| badminton | Atlanta | $33 |
+ 
 
 
