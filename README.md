@@ -45,6 +45,9 @@ The following table gives an information about name of the sport,where it can be
 | tennis | dallas | $50 |
 | hockey | misssouri | $45 |
 | badminton | Atlanta | $33 |
- 
 
+---
+### **My favourite quotes**
+> Fill your papers with the breathings of your heart. <br>  -*William Wordsworth*
 
+> The wiset prophets make sure of the event first.      -*Horace Walpole*
